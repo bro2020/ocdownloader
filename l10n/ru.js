@@ -47,7 +47,7 @@ OC.L10N.register(
     "The download has been totally removed" : "Загрузка была полностью удалена",
     "You are not allowed to use the YouTube protocol" : "Вы не можете использовать протокол YouTube",
     "Unable to retrieve true YouTube audio URL" : "Не удается получить верный аудио URL YouTube",
-    "Unable to retrieve true YouTube video URL" : "Не удается получить верный аудио URL YouTube",
+    "Unable to retrieve true YouTube video URL" : "Не удается получить верный видео URL YouTube",
     "Invalid URL. Please check the address of the file…" : "Недопустимый URL. Пожалуйста, проверьте адрес файла…",
     "Select a file.torrent" : "Выберите торрент файл",
     "Unable to find the GID for this download…" : "Не удалось найти GID для этой загрузки...",
